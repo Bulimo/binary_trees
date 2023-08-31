@@ -59,3 +59,4 @@ struct binary_tree_s
     . 16-binary_tree_is_perfect.c
     . 17-binary_tree_sibling.c
     . 18-binary_tree_uncle.c
+    . 100-binary_trees_ancestor.c
